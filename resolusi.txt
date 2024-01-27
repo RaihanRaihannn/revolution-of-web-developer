@@ -1,3 +1,4 @@
 resolusi
 -bisa membuat website yang keren
 -bisa aplikasi mobile
+-bisa membuat aplikasi mobile yg connect dengan website
